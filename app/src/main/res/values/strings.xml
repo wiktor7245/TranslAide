@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">TranslAide</string>
+    <string name="text_input">Tekst</string>
+    <string name="greeting_text_str">Podaj tekst do tłumaczenia:</string>
+</resources>
